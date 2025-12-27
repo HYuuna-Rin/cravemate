@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Chocolate Cake",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "medium",
+    "reason": "Chocolate and cake are commonly associated with comfort and can help improve mood during emotional distress.",
+    "image": "/assets/images/chocolate-cake.avif"
+  },
+  {
+    "name": "Brownies",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "medium",
+    "reason": "Rich and sweet flavors provide emotional comfort and stress relief.",
+    "image": "/assets/images/brownies.jfif"
+  },
+  {
+    "name": "Cupcakes",
+    "category": "Dessert",
+    "moods": ["happy", "bored"],
+    "energy": "low",
+    "image": "/assets/images/cupcakes.jfif",
+    "reason": "Small, sweet treats are enjoyable and add a sense of fun and positivity."
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Dessert",
+    "moods": ["sad", "happy"],
+    "energy": "medium",
+    "image": "/assets/images/cheesecake.jpg",
+    "reason": "Creamy desserts are satisfying and comforting, suitable for both relaxation and celebration."
+  },
+  {
+    "name": "Ice Cream Sundae",
+    "category": "Dessert",
+    "moods": ["sad", "happy"],
+    "energy": "low",
+    "image": "/assets/images/ice-cream-sundae.jfif",
+    "reason": "Cold, sweet desserts are linked to comfort and happiness."
+  },
+  {
+    "name": "Cookies",
+    "category": "Dessert",
+    "moods": ["bored", "sad"],
+    "energy": "low",
+    "image": "/assets/images/cookies.jfif",
+    "reason": "Simple baked goods provide familiarity and casual comfort."
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "low",
+    "image": "/assets/images/chocolate-chip-cookies.jpg",
+    "reason": "Chocolate chips enhance mood and reduce stress."
+  },
+  {
+    "name": "Oatmeal Cookies",
+    "category": "Dessert",
+    "moods": ["bored", "tired"],
+    "energy": "medium",
+    "image": "/assets/images/oatmeal-cookies.jfif",
+    "reason": "Hearty cookies offer light energy and comfort."
+  },
+  {
+    "name": "Apple Pie",
+    "category": "Dessert",
+    "moods": ["sad", "happy"],
+    "energy": "medium",
+    "image": "/assets/images/apple-pie.jfif",
+    "reason": "Warm desserts are soothing and emotionally comforting."
+  },
+  {
+    "name": "Banana Split",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/banana-split.jfif",
+    "reason": "Colorful desserts enhance celebratory moods."
+  },
+  {
+    "name": "Donut Holes",
+    "category": "Dessert",
+    "moods": ["stressed", "bored"],
+    "energy": "low",
+    "image": "/assets/images/donut-holes.jfif",
+    "reason": "Bite-sized sweets provide quick enjoyment and stress relief."
+  },
+  {
+    "name": "Churros",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/churros.jfif",
+    "reason": "Crispy and sweet desserts match fun and festive moods."
+  },
+  {
+    "name": "Waffles",
+    "category": "Dessert",
+    "moods": ["happy", "stressed"],
+    "energy": "medium",
+    "image": "/assets/images/waffles.jfif",
+    "reason": "Warm and sweet meals promote relaxation and enjoyment."
+  },
+  {
+    "name": "Crepes",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "low",
+    "image": "/assets/images/crepes.jfif",
+    "reason": "Light desserts complement positive moods without heaviness."
+  },
+  {
+    "name": "Tiramisu",
+    "category": "Dessert",
+    "moods": ["stressed", "sad"],
+    "energy": "medium",
+    "image": "/assets/images/tiramisu.avif",
+    "reason": "Coffee-infused desserts provide comfort and mild stimulation."
+  },
+  {
+    "name": "Pudding",
+    "category": "Dessert",
+    "moods": ["sad", "tired"],
+    "energy": "low",
+    "image": "/assets/images/pudding.jpg",
+    "reason": "Soft textures are soothing and easy to enjoy when energy is low."
+  },
+  {
+    "name": "Custard",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "low",
+    "image": "/assets/images/custard.jfif",
+    "reason": "Smooth desserts provide calmness and emotional comfort."
+  },
+  {
+    "name": "Gelato",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "low",
+    "image": "/assets/images/gelato.jpg",
+    "reason": "Refreshing desserts enhance joyful moods."
+  },
+  {
+    "name": "Frozen Yogurt",
+    "category": "Dessert",
+    "moods": ["tired", "happy"],
+    "energy": "medium",
+    "image": "/assets/images/frozen-yogurt.jfif",
+    "reason": "Light and refreshing desserts boost energy without heaviness."
+  },
+  {
+    "name": "Macarons",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "low",
+    "image": "/assets/images/macarons.jpg",
+    "reason": "Colorful sweets enhance excitement and visual enjoyment."
+  },
+  {
+    "name": "Muffins",
+    "category": "Dessert",
+    "moods": ["tired", "bored"],
+    "energy": "medium",
+    "image": "/assets/images/muffins.jfif",
+    "reason": "Soft baked goods provide light energy and comfort."
+  },
+  {
+    "name": "Brown Sugar Cookies",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "low",
+    "image": "/assets/images/brown-sugar-cookies.jpg",
+    "reason": "Warm sweetness helps calm emotions."
+  },
+  {
+    "name": "Rice Pudding",
+    "category": "Dessert",
+    "moods": ["sad", "tired"],
+    "energy": "low",
+    "image": "/assets/images/rice-pudding.jfif",
+    "reason": "Traditional comfort desserts promote relaxation."
+  },
+  {
+    "name": "Halo-Halo",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/halo-halo.jpg",
+    "reason": "Colorful and mixed textures enhance enjoyment and excitement."
+  },
+  {
+    "name": "Leche Flan",
+    "category": "Dessert",
+    "moods": ["happy", "sad"],
+    "energy": "medium",
+    "image": "/assets/images/leche-flan.jfif",
+    "reason": "Rich and creamy desserts are emotionally satisfying."
+  },
+  {
+    "name": "Ube Cake",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/ube-cake.jpg",
+    "reason": "Sweet and familiar flavors evoke comfort and joy."
+  },
+  {
+    "name": "Mango Float",
+    "category": "Dessert",
+    "moods": ["happy", "stressed"],
+    "energy": "medium",
+    "image": "/assets/images/mango-float.jfif",
+    "reason": "Cold and fruity desserts help reduce stress."
+  },
+  {
+    "name": "Bibingka",
+    "category": "Dessert",
+    "moods": ["sad", "happy"],
+    "energy": "medium",
+    "image": "/assets/images/bibingka.jfif",
+    "reason": "Warm traditional desserts provide nostalgia and comfort."
+  },
+  {
+    "name": "Cassava Cake",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "medium",
+    "image": "/assets/images/cassava-cake.jfif",
+    "reason": "Dense desserts help create a feeling of fullness and comfort."
+  },
+  {
+    "name": "Banana Cue",
+    "category": "Dessert",
+    "moods": ["bored", "happy"],
+    "energy": "medium",
+    "image": "/assets/images/banana-cue.avif",
+    "reason": "Sweet street-food desserts are enjoyable and satisfying."
+  },
+  {
+    "name": "Turon",
+    "category": "Dessert",
+    "moods": ["happy", "bored"],
+    "energy": "medium",
+    "image": "/assets/images/turon.jpg",
+    "reason": "Crunchy and sweet snacks enhance casual enjoyment."
+  },
+  {
+    "name": "Puto",
+    "category": "Dessert",
+    "moods": ["tired", "sad"],
+    "energy": "low",
+    "image": "/assets/images/puto.jpg",
+    "reason": "Light rice cakes are easy to eat and comforting."
+  },
+  {
+    "name": "Kutsinta",
+    "category": "Dessert",
+    "moods": ["sad", "bored"],
+    "energy": "low",
+    "image": "/assets/images/kutsinta.jfif",
+    "reason": "Soft traditional sweets provide familiarity and calmness."
+  },
+  {
+    "name": "Maja Blanca",
+    "category": "Dessert",
+    "moods": ["happy", "stressed"],
+    "energy": "medium",
+    "image": "/assets/images/maja-blanca.jfif",
+    "reason": "Creamy textures help relieve stress."
+  },
+  {
+    "name": "Fruit Tart",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/fruit-tart.jpg",
+    "reason": "Fresh fruits combined with sweetness enhance positive moods."
+  },
+  {
+    "name": "Chocolate Truffles",
+    "category": "Dessert",
+    "moods": ["stressed", "sad"],
+    "energy": "low",
+    "image": "/assets/images/chocolate-truffles.jfif",
+    "reason": "Chocolate helps improve mood and reduce stress."
+  },
+  {
+    "name": "Eclairs",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/eclairs.jpg",
+    "reason": "Cream-filled pastries enhance celebratory moods."
+  },
+  {
+    "name": "Fudge",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "medium",
+    "image": "/assets/images/fudge.jpg",
+    "reason": "Dense sweetness provides emotional satisfaction."
+  },
+  {
+    "name": "Marshmallows",
+    "category": "Dessert",
+    "moods": ["bored", "happy"],
+    "energy": "low",
+    "image": "/assets/images/marshmallows.jpg",
+    "reason": "Light sweets add fun and nostalgia."
+  },
+  {
+    "name": "Chocolate Mousse",
+    "category": "Dessert",
+    "moods": ["sad", "happy"],
+    "energy": "medium",
+    "image": "/assets/images/chocolate-mousse.jpg",
+    "reason": "Smooth textures and chocolate help uplift mood."
+  },
+  {
+    "name": "Carrot Cake",
+    "category": "Dessert",
+    "moods": ["happy", "stressed"],
+    "energy": "medium",
+    "image": "/assets/images/carrot-cake.jfif",
+    "reason": "Balanced sweetness makes it comforting without being overwhelming."
+  },
+  {
+    "name": "Red Velvet Cake",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/red-velvet-cake.jpg",
+    "reason": "Rich flavors are often associated with celebrations."
+  },
+  {
+    "name": "Fruit Sorbet",
+    "category": "Dessert",
+    "moods": ["tired", "happy"],
+    "energy": "low",
+    "image": "/assets/images/fruit-sorbet.jfif",
+    "reason": "Refreshing desserts help cool down and refresh the body."
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "category": "Dessert",
+    "moods": ["sad", "stressed"],
+    "energy": "low",
+    "image": "/assets/images/chocolate-ice-cream.jpg",
+    "reason": "Chocolate flavor provides comfort and emotional relief."
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "category": "Dessert",
+    "moods": ["sad", "happy"],
+    "energy": "low",
+    "image": "/assets/images/vanilla-ice-cream.avif",
+    "reason": "Classic flavors evoke familiarity and comfort."
+  },
+  {
+    "name": "Strawberry Shortcake",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "medium",
+    "image": "/assets/images/strawberry-shortcake.jpg",
+    "reason": "Light sweetness and fruit enhance positive moods."
+  },
+  {
+    "name": "Panna Cotta",
+    "category": "Dessert",
+    "moods": ["stressed", "happy"],
+    "energy": "low",
+    "image": "/assets/images/panna-cotta.jpg",
+    "reason": "Soft and creamy desserts help relax the mind."
+  },
+  {
+    "name": "Baklava",
+    "category": "Dessert",
+    "moods": ["happy", "excited"],
+    "energy": "high",
+    "reason": "Rich and sweet flavors match high-energy moods.",
+    "image": "/assets/images/baklava.png"
+  }
+]

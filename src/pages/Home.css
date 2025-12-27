@@ -1,0 +1,58 @@
+:root{
+	--bg:#f6d7a8;
+	--panel:#fdeed4;
+	--accent:#d45a2e;
+	--muted:#7b5d4a;
+}
+.home-page ion-content{background:var(--bg);padding:18px}
+.home-top{display:flex;flex-direction:column;align-items:center;margin-bottom:12px}
+.home-title{font-size:28px;color:var(--accent);font-weight:700}
+.home-sub{color:var(--muted);font-size:13px}
+.prompt{display:block;margin:12px 0;color:var(--muted)}
+.mood-input{background:var(--panel);padding:10px;border-radius:20px;border:none}
+.ion-segment{display:flex;gap:8px;margin:12px 0}
+.ion-segment .segment-button{background:var(--panel);border-radius:10px;padding:8px}
+.mood-input input, .mood-input textarea, .card input, .card textarea, ion-textarea textarea{color:#3b2a19 !important}
+.mood-input input::placeholder, ion-textarea textarea::placeholder{color:#b58f6b !important}
+.ion-card, .card{color:#3b2a19}
+.ion-card{border-radius:12px;background:var(--panel);margin:8px 0}
+.ion-card ion-card-content{padding:8px}
+.ion-avatar{width:64px;height:64px}
+
+@media(min-width:900px){
+	.home-page ion-content{display:grid;grid-template-columns:1fr 380px;gap:20px}
+}
+
+/* Landing styles */
+.landing-page .landing-content{background:var(--bg);}
+.landing-wrapper {
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+.landing-hero {
+  background: var(--panel);
+  padding: 28px 32px;
+  border-radius: 16px;
+  text-align: center;
+  max-width: 420px;
+  width: 100%;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.12);
+}
+.landing-hero .landing-logo{width:140px;height:140px;border-radius:16px;background:white;margin:0 auto 12px;display:flex;align-items:center;justify-content:center;color:var(--accent);font-weight:900;box-shadow:0 10px 24px rgba(0,0,0,0.12)}
+.landing-hero .logo{font-size:30px;color:var(--accent);font-weight:800;margin-top:10px}
+.landing-hero .tag{color:var(--muted);margin-top:8px;font-size:15px}
+.start-area{width:100%;margin-top:26px;display:flex;justify-content:center}
+.start-btn{background:var(--accent);color:white;border-radius:22px;padding:12px 28px;font-size:16px}
+
+/* center circle tab button styling (global) */
+.center-button{position:relative;top:-18px}
+.center-button .center-circle{background:var(--accent);color:white;border-radius:50%;width:64px;height:64px;display:flex;align-items:center;justify-content:center;font-size:22px;box-shadow:0 6px 12px rgba(0,0,0,0.12)}
+
+/* small screens fixes */
+@media(max-width:360px){
+	.landing-hero .logo{font-size:22px}
+	.start-btn{font-size:14px}
+}

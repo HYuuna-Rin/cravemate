@@ -1,0 +1,34 @@
+{
+  "happy": [
+    { "name": "Chocolate Cake", "message": "Rich chocolate cake", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍰</text></svg>" },
+    { "name": "Ice Cream Sundae", "message": "Celebrate with a sundae", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍨</text></svg>" }
+  ],
+  "sad": [
+    { "name": "Vanilla Ice Cream", "message": "Comfort in a cup", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍨</text></svg>" },
+    { "name": "Warm Brownie", "message": "Fudgy and warm", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍫</text></svg>" }
+  ],
+  "stressed": [
+    { "name": "Donut", "message": "Take a break with a donut", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍩</text></svg>" },
+    { "name": "Cookies", "message": "Crunch and calm", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍪</text></svg>" }
+  ],
+  "tired": [
+    { "name": "Pancakes", "message": "Fluffy pancakes", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🥞</text></svg>" },
+    { "name": "Crepe", "message": "Light and sweet", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🫓</text></svg>" }
+  ],
+  "excited": [
+    { "name": "Macaron", "message": "Colorful macarons", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🧁</text></svg>" },
+    { "name": "Cupcake", "message": "Party cupcake", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🧁</text></svg>" }
+  ],
+  "angry": [
+    { "name": "Molten Lava Cake", "message": "Bold chocolate", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍮</text></svg>" },
+    { "name": "Spiced Churros", "message": "A little kick with sweetness", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍩</text></svg>" }
+  ],
+  "bored": [
+    { "name": "Ice Cream Sandwich", "message": "Fun and easy", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍪</text></svg>" },
+    { "name": "Donut Holes", "message": "Snackable treats", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200'>🍩</text></svg>" }
+  ],
+  "energetic": [
+    { "name": "Fruit Parfait", "message": "Light and energizing", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='160'>🥣</text></svg>" },
+    { "name": "Yogurt Bowl", "message": "Refreshing treat", "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect width='100%' height='100%' fill='%23fdeed4'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='160'>🍧</text></svg>" }
+  ]
+}

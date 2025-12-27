@@ -1,0 +1,10 @@
+.favorites-content{background:var(--bg);min-height:100vh}
+.favorites-page h2{color:var(--accent);font-size:22px;margin-bottom:8px}
+.favorites-page .ion-list{margin-top:8px}
+.small{color:var(--muted)}
+.stars-inline .star-btn{font-size:18px}
+
+.favorites-hero{background:var(--panel);padding:12px;border-radius:12px;margin:12px 0;text-align:center}
+.favorites-hero .logo{font-weight:800;color:var(--accent);font-size:20px}
+.favorites-card{background:white;border-radius:10px;padding:8px;margin-bottom:8px;box-shadow:0 6px 14px rgba(0,0,0,0.06)}
+

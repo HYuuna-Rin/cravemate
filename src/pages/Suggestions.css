@@ -1,0 +1,31 @@
+:root{
+  --bg:#f6d7a8;
+  --panel:#fdeed4;
+  --accent:#d45a2e;
+  --muted:#7b5d4a;
+}
+.suggestions-page{background:var(--bg);padding:16px;min-height:100vh}
+.suggestions-page .container{max-width:420px;margin:0 auto}
+.suggest-hero{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+.suggest-hero .panel{background:var(--panel);padding:12px 14px;border-radius:12px;flex:1;margin-right:12px}
+.suggest-hero h2{font-size:18px;margin:0;color:var(--muted);font-weight:700}
+.suggest-hero .custom-note{margin:6px 0 0 0;font-size:13px}
+.suggest-card{background:white;margin:14px 0;border-radius:12px;padding:10px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+.suggest-card ion-item{--padding-start:6px}
+.suggest-info{margin-left:12px}
+.suggest-info h3{margin:0;color:var(--accent);font-size:16px}
+.suggest-info p{margin:6px 0;color:rgba(59,42,25,0.85)}
+.actions{display:flex;align-items:center;gap:8px;margin-top:8px}
+.stars .star-btn{background:transparent;border:none;font-size:18px;color:#f2b01e;padding:2px}
+.star-btn:active{transform:scale(.95)}
+.suggest-card ion-avatar{width:56px;height:56px;border-radius:10px;background:var(--panel)}
+
+@media(min-width:900px){
+  .suggestions-page .container{max-width:480px}
+}
+
+@media(max-width:420px){
+  .suggest-info h3{font-size:16px}
+  .suggest-hero h2{font-size:18px}
+  .stars .star-btn{font-size:18px}
+}

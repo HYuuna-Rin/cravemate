@@ -29,3 +29,10 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+
+node_modules
+.env
+.env.local
+dist
+android
+ios
