@@ -4,6 +4,7 @@ import { useHistory } from 'react-router-dom';
 import './Mood.css';
 import { evaluateMood } from '../utils/mood';
 import TopBar from '../components/TopBar.jsx';
+import { API_BASE } from '../config/api';
 
 const moods = [
   { key: 'happy', label: '😊 Happy' },
@@ -46,7 +47,7 @@ const MoodSelect = () => {
       return;
     }
     try {
-      const resp = await fetch('/api/mood-suggest', {
+      const resp = await fetch(`${API_BASE}/api/mood-suggest`, {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text: customMood, limit: 5 })
       });
